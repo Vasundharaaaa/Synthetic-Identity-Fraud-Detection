@@ -106,10 +106,15 @@ Traditional fraud detection systems rely only on historical fraud data, which li
 Raw Data → Preprocessing → Synthetic Data Injection → Model Training → Prediction → Risk Scoring → Visualization
 
 🔮 Future Enhancements
+
 🎤 Voice-based input system for fraud prediction
+
 🌐 Web application (Streamlit dashboard)
+
 🧠 Explainable AI using SHAP/LIME
+
 ⚡ Real-time fraud detection pipeline
+
 
 “This system does not just detect fraud — it anticipates how fraud is created.”
 
