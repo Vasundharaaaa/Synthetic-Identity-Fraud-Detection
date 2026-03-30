@@ -71,8 +71,6 @@ Traditional fraud detection systems rely only on historical fraud data, which li
 
 ---
 
----
-
 ## 📈 Results & Performance
 
 | Metric        | Value |
@@ -103,3 +101,17 @@ Traditional fraud detection systems rely only on historical fraud data, which li
 3. Execute all cells sequentially
 
 ## 🔁 System Pipeline
+
+Raw Data → Preprocessing → Synthetic Data Injection → Model Training → Prediction → Risk Scoring → Visualization
+
+🔮 Future Enhancements
+🎤 Voice-based input system for fraud prediction
+🌐 Web application (Streamlit dashboard)
+🧠 Explainable AI using SHAP/LIME
+⚡ Real-time fraud detection pipeline
+
+“This system does not just detect fraud — it anticipates how fraud is created.”
+
+⭐ If you found this project interesting, consider giving it a star!
+
+👩‍💻 Author-Vasuntthara Dhayalan
